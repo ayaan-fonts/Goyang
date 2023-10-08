@@ -1,0 +1,6 @@
+@font-face {
+	font-family: 'Goyang';
+	font-weight: 400;
+	font-display: swap;
+	src: local('Goyang Regular'), url('./woff2-subset/Goyang-Regular.subset.woff2') format('woff2'), url('./woff-subset/Goyang-Regular.subset.woff') format('woff');
+}
